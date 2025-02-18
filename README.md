@@ -1,6 +1,6 @@
 ### **Social Housing – my first UX project**  
 
-Social Housing is my **first UX project** (I am _definitely_ a beginner), inspired by a real challenge I faced while searching for a rental home. This ongoing project envisions an application designed to streamline the rental process**, from the initial search phase to finalizing agreements. I primarily focused on the research and design stages, applying various design methodologies that I found particularly interesting. You can find an overview of my work so far in **SocialHousing_FirstDraft.pdf**.  
+Social Housing is my **first UX project** (I am _definitely_ a beginner), inspired by a real challenge I faced while searching for a rental home. This ongoing project envisions an application designed to streamline the rental process, from the initial search phase to finalizing agreements. I primarily focused on the research and design stages, applying various design methodologies that I found particularly interesting. You can find an overview of my work so far in **SocialHousing_FirstDraft.pdf**.  
 
 To validate my assumptions about the difficulties of renting in Italy, I began by analyzing online data to assess whether this issue was as widespread as I perceived (spoiler: it is!). I then conducted interviews and distributed surveys among friends and colleagues, using the insights to create an affinity map. From there, I developed personas and mapped their customer journeys, identifying two main user types: tenants and landlords.  
 
